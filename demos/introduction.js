@@ -1,4 +1,7 @@
 /* JavaScript, similar to C*/
+
+//What
+
 console.log('Math');
 i = 3;
 i = i * 3 + 3 + (i /5);
